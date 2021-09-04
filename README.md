@@ -1,5 +1,16 @@
-// hands:
+//stats:
+attack range : 3
+hp : brs
+ap : 50 + energy / 10
+damage : (20 - energy / 20 + aggression / 10) - (20 + energy / 20 + aggression / 10)
+crit : 0
+defence : brainsize / 10
+dodge : 50 + eyecolor / 10
+moveRange : 4 + (energy + spookiness) / 25
+sight : 6
 
+
+// hands:
 // mk2 grenade : add AOE skill
 // m67 grenade : add AOE skill
 // fireball : add AOE, DOT skill
